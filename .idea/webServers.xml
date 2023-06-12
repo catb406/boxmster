@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f880f1d8-d815-49f0-941a-7a67d2f0d2a1" name="box" url="https://box-master-mega.ru">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="185.154.193.134" port="22" sshConfigId="691510d7-410d-479c-bbfe-c1616c8838a9" sshConfig="root@185.154.193.134:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

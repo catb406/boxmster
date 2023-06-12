@@ -1,0 +1,6 @@
+uvicorn~=0.17.6
+mysql-connector-python~=8.0.33
+starlette~=0.20.4
+Pyrogram~=2.0.106
+python-telegram-bot~=20.3
+dataclasses~=0.6
